@@ -1,7 +1,7 @@
 {
   "name": "Simple Timer",
   "version": "1.0.0",
-  "description": "A simple stopwatch web app built using Node.js + Express"
+  "description": "A simple stopwatch web app built using Node.js + Express",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -9,7 +9,7 @@
   "keywords": [
     "node",
     "express",
-    "nodejs",
+    "nodejs"
   ],
   "license": "ISC",
   "dependencies": {
