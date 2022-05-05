@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "Simple Timer",
   "version": "1.0.0",
-  "description": "A simple hello world Express/NodeJS application",
+  "description": "A simple stopwatch web app built using Node.js + Express"
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,7 +10,6 @@
     "node",
     "express",
     "nodejs",
-    "hello-world"
   ],
   "license": "ISC",
   "dependencies": {
