@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
      <html>
     <head>
         <meta charset="utf-8">
-        <title>Lesson 6: Timers</title>
+        <title>Stopwatch</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
         <style>
